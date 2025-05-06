@@ -1,0 +1,32 @@
+{
+  "Data Scientist": {
+    "Stage 1": ["Python", "Pandas", "NumPy", "Data Cleaning"],
+    "Stage 2": ["Statistics", "Linear & Logistic Regression", "Data Visualization (Matplotlib, Seaborn)"],
+    "Stage 3": ["Machine Learning", "scikit-learn", "Deep Learning Basics", "Capstone Project"]
+  },
+  "AI Engineer": {
+    "Stage 1": ["Python", "OOP", "Git", "Math for ML"],
+    "Stage 2": ["Neural Networks", "TensorFlow or PyTorch", "Backpropagation"],
+    "Stage 3": ["Model Deployment", "APIs (Flask, FastAPI)", "Cloud Platforms (GCP, AWS)", "Real-world Project"]
+  },
+  "Web Developer": {
+    "Stage 1": ["HTML", "CSS", "JavaScript"],
+    "Stage 2": ["React or Vue", "REST APIs", "Git & GitHub"],
+    "Stage 3": ["Node.js or Django", "MongoDB or PostgreSQL", "Deploy with Vercel or Heroku", "Portfolio Website"]
+  },
+  "Cybersecurity Specialist": {
+    "Stage 1": ["Networking Basics", "Linux Commands", "Python for Security"],
+    "Stage 2": ["Cryptography", "Penetration Testing Tools (Nmap, Wireshark)"],
+    "Stage 3": ["Ethical Hacking", "CTF Practice", "Security Certifications (CompTIA Security+, CEH)"]
+  },
+  "Cloud Engineer": {
+    "Stage 1": ["Linux", "Networking Basics", "Python or Bash"],
+    "Stage 2": ["Cloud Fundamentals (AWS/GCP/Azure)", "Containers (Docker)", "CI/CD Pipelines"],
+    "Stage 3": ["Kubernetes", "Infrastructure as Code (Terraform)", "Monitoring & Logging"]
+  },
+  "Game Developer": {
+    "Stage 1": ["C# or C++", "Math for Games (Vectors, Matrices)", "Basic Game Loops"],
+    "Stage 2": ["Unity or Unreal Engine", "2D & 3D Game Design", "Asset Integration"],
+    "Stage 3": ["Multiplayer Concepts", "Optimization Techniques", "Publish to Steam/Play Store"]
+  }
+}
